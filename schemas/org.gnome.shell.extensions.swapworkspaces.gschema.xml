@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.swapworkspaces" path="/org/gnome/shell/extensions/swapworkspaces/">
+    <key name="swap-left" type="as">
+      <summary>Keybinding to swap with the left workspace</summary>
+      <default>['&lt;Super&gt;&lt;Shift&gt;Left']</default>
+    </key>
+    <key name="swap-right" type="as">
+      <summary>Keybinding to swap with the right workspace</summary>
+      <default>['&lt;Super&gt;&lt;Shift&gt;Right']</default>
+    </key>
+  </schema>
+</schemalist>
